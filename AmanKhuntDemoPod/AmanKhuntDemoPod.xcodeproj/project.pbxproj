@@ -7,83 +7,83 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D79C88D32D0C92B400C4B9F2 /* DemoPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D79C88C82D0C92B400C4B9F2 /* DemoPod.framework */; };
+		D79C890A2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D79C88FF2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D79C88D42D0C92B400C4B9F2 /* PBXContainerItemProxy */ = {
+		D79C890B2D0CB74500C4B9F2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D79C88BF2D0C92B400C4B9F2 /* Project object */;
+			containerPortal = D79C88F62D0CB74500C4B9F2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D79C88C72D0C92B400C4B9F2;
-			remoteInfo = DemoPod;
+			remoteGlobalIDString = D79C88FE2D0CB74500C4B9F2;
+			remoteInfo = AmanKhuntDemoPod;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D79C88C82D0C92B400C4B9F2 /* DemoPod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DemoPod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D79C88D22D0C92B400C4B9F2 /* DemoPodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoPodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D79C88FF2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AmanKhuntDemoPod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D79C89092D0CB74500C4B9F2 /* AmanKhuntDemoPodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AmanKhuntDemoPodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		D79C88DA2D0C92B400C4B9F2 /* Exceptions for "DemoPod" folder in "DemoPod" target */ = {
+		D79C89112D0CB74500C4B9F2 /* Exceptions for "AmanKhuntDemoPod" folder in "AmanKhuntDemoPod" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			publicHeaders = (
-				DemoPod.h,
+				AmanKhuntDemoPod.h,
 			);
-			target = D79C88C72D0C92B400C4B9F2 /* DemoPod */;
+			target = D79C88FE2D0CB74500C4B9F2 /* AmanKhuntDemoPod */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D79C88CA2D0C92B400C4B9F2 /* DemoPod */ = {
+		D79C89012D0CB74500C4B9F2 /* AmanKhuntDemoPod */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				D79C88DA2D0C92B400C4B9F2 /* Exceptions for "DemoPod" folder in "DemoPod" target */,
+				D79C89112D0CB74500C4B9F2 /* Exceptions for "AmanKhuntDemoPod" folder in "AmanKhuntDemoPod" target */,
 			);
-			path = DemoPod;
+			path = AmanKhuntDemoPod;
 			sourceTree = "<group>";
 		};
-		D79C88D62D0C92B400C4B9F2 /* DemoPodTests */ = {
+		D79C890D2D0CB74500C4B9F2 /* AmanKhuntDemoPodTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = DemoPodTests;
+			path = AmanKhuntDemoPodTests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D79C88C52D0C92B400C4B9F2 /* Frameworks */ = {
+		D79C88FC2D0CB74500C4B9F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D79C88CF2D0C92B400C4B9F2 /* Frameworks */ = {
+		D79C89062D0CB74500C4B9F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D79C88D32D0C92B400C4B9F2 /* DemoPod.framework in Frameworks */,
+				D79C890A2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D79C88BE2D0C92B400C4B9F2 = {
+		D79C88F52D0CB74500C4B9F2 = {
 			isa = PBXGroup;
 			children = (
-				D79C88CA2D0C92B400C4B9F2 /* DemoPod */,
-				D79C88D62D0C92B400C4B9F2 /* DemoPodTests */,
-				D79C88C92D0C92B400C4B9F2 /* Products */,
+				D79C89012D0CB74500C4B9F2 /* AmanKhuntDemoPod */,
+				D79C890D2D0CB74500C4B9F2 /* AmanKhuntDemoPodTests */,
+				D79C89002D0CB74500C4B9F2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D79C88C92D0C92B400C4B9F2 /* Products */ = {
+		D79C89002D0CB74500C4B9F2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D79C88C82D0C92B400C4B9F2 /* DemoPod.framework */,
-				D79C88D22D0C92B400C4B9F2 /* DemoPodTests.xctest */,
+				D79C88FF2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework */,
+				D79C89092D0CB74500C4B9F2 /* AmanKhuntDemoPodTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -91,7 +91,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		D79C88C32D0C92B400C4B9F2 /* Headers */ = {
+		D79C88FA2D0CB74500C4B9F2 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -101,99 +101,99 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		D79C88C72D0C92B400C4B9F2 /* DemoPod */ = {
+		D79C88FE2D0CB74500C4B9F2 /* AmanKhuntDemoPod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D79C88DB2D0C92B400C4B9F2 /* Build configuration list for PBXNativeTarget "DemoPod" */;
+			buildConfigurationList = D79C89122D0CB74500C4B9F2 /* Build configuration list for PBXNativeTarget "AmanKhuntDemoPod" */;
 			buildPhases = (
-				D79C88C32D0C92B400C4B9F2 /* Headers */,
-				D79C88C42D0C92B400C4B9F2 /* Sources */,
-				D79C88C52D0C92B400C4B9F2 /* Frameworks */,
-				D79C88C62D0C92B400C4B9F2 /* Resources */,
+				D79C88FA2D0CB74500C4B9F2 /* Headers */,
+				D79C88FB2D0CB74500C4B9F2 /* Sources */,
+				D79C88FC2D0CB74500C4B9F2 /* Frameworks */,
+				D79C88FD2D0CB74500C4B9F2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D79C88CA2D0C92B400C4B9F2 /* DemoPod */,
+				D79C89012D0CB74500C4B9F2 /* AmanKhuntDemoPod */,
 			);
-			name = DemoPod;
+			name = AmanKhuntDemoPod;
 			packageProductDependencies = (
 			);
-			productName = DemoPod;
-			productReference = D79C88C82D0C92B400C4B9F2 /* DemoPod.framework */;
+			productName = AmanKhuntDemoPod;
+			productReference = D79C88FF2D0CB74500C4B9F2 /* AmanKhuntDemoPod.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D79C88D12D0C92B400C4B9F2 /* DemoPodTests */ = {
+		D79C89082D0CB74500C4B9F2 /* AmanKhuntDemoPodTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D79C88E02D0C92B400C4B9F2 /* Build configuration list for PBXNativeTarget "DemoPodTests" */;
+			buildConfigurationList = D79C89172D0CB74500C4B9F2 /* Build configuration list for PBXNativeTarget "AmanKhuntDemoPodTests" */;
 			buildPhases = (
-				D79C88CE2D0C92B400C4B9F2 /* Sources */,
-				D79C88CF2D0C92B400C4B9F2 /* Frameworks */,
-				D79C88D02D0C92B400C4B9F2 /* Resources */,
+				D79C89052D0CB74500C4B9F2 /* Sources */,
+				D79C89062D0CB74500C4B9F2 /* Frameworks */,
+				D79C89072D0CB74500C4B9F2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D79C88D52D0C92B400C4B9F2 /* PBXTargetDependency */,
+				D79C890C2D0CB74500C4B9F2 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				D79C88D62D0C92B400C4B9F2 /* DemoPodTests */,
+				D79C890D2D0CB74500C4B9F2 /* AmanKhuntDemoPodTests */,
 			);
-			name = DemoPodTests;
+			name = AmanKhuntDemoPodTests;
 			packageProductDependencies = (
 			);
-			productName = DemoPodTests;
-			productReference = D79C88D22D0C92B400C4B9F2 /* DemoPodTests.xctest */;
+			productName = AmanKhuntDemoPodTests;
+			productReference = D79C89092D0CB74500C4B9F2 /* AmanKhuntDemoPodTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D79C88BF2D0C92B400C4B9F2 /* Project object */ = {
+		D79C88F62D0CB74500C4B9F2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					D79C88C72D0C92B400C4B9F2 = {
+					D79C88FE2D0CB74500C4B9F2 = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					D79C88D12D0C92B400C4B9F2 = {
+					D79C89082D0CB74500C4B9F2 = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = D79C88C22D0C92B400C4B9F2 /* Build configuration list for PBXProject "DemoPod" */;
+			buildConfigurationList = D79C88F92D0CB74500C4B9F2 /* Build configuration list for PBXProject "AmanKhuntDemoPod" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = D79C88BE2D0C92B400C4B9F2;
+			mainGroup = D79C88F52D0CB74500C4B9F2;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D79C88C92D0C92B400C4B9F2 /* Products */;
+			productRefGroup = D79C89002D0CB74500C4B9F2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D79C88C72D0C92B400C4B9F2 /* DemoPod */,
-				D79C88D12D0C92B400C4B9F2 /* DemoPodTests */,
+				D79C88FE2D0CB74500C4B9F2 /* AmanKhuntDemoPod */,
+				D79C89082D0CB74500C4B9F2 /* AmanKhuntDemoPodTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D79C88C62D0C92B400C4B9F2 /* Resources */ = {
+		D79C88FD2D0CB74500C4B9F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D79C88D02D0C92B400C4B9F2 /* Resources */ = {
+		D79C89072D0CB74500C4B9F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -203,14 +203,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D79C88C42D0C92B400C4B9F2 /* Sources */ = {
+		D79C88FB2D0CB74500C4B9F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D79C88CE2D0C92B400C4B9F2 /* Sources */ = {
+		D79C89052D0CB74500C4B9F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -220,15 +220,15 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D79C88D52D0C92B400C4B9F2 /* PBXTargetDependency */ = {
+		D79C890C2D0CB74500C4B9F2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D79C88C72D0C92B400C4B9F2 /* DemoPod */;
-			targetProxy = D79C88D42D0C92B400C4B9F2 /* PBXContainerItemProxy */;
+			target = D79C88FE2D0CB74500C4B9F2 /* AmanKhuntDemoPod */;
+			targetProxy = D79C890B2D0CB74500C4B9F2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		D79C88DC2D0C92B400C4B9F2 /* Debug */ = {
+		D79C89132D0CB74500C4B9F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
@@ -243,7 +243,6 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -252,7 +251,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.DemoPod;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.AmanKhuntDemoPod;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -262,7 +261,7 @@
 			};
 			name = Debug;
 		};
-		D79C88DD2D0C92B400C4B9F2 /* Release */ = {
+		D79C89142D0CB74500C4B9F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
@@ -277,7 +276,6 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -286,7 +284,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.DemoPod;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.AmanKhuntDemoPod;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -296,7 +294,7 @@
 			};
 			name = Release;
 		};
-		D79C88DE2D0C92B400C4B9F2 /* Debug */ = {
+		D79C89152D0CB74500C4B9F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -362,7 +360,7 @@
 			};
 			name = Debug;
 		};
-		D79C88DF2D0C92B400C4B9F2 /* Release */ = {
+		D79C89162D0CB74500C4B9F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -421,7 +419,7 @@
 			};
 			name = Release;
 		};
-		D79C88E12D0C92B400C4B9F2 /* Debug */ = {
+		D79C89182D0CB74500C4B9F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -429,7 +427,7 @@
 				DEVELOPMENT_TEAM = 9J2JTGKM53;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.DemoPodTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.AmanKhuntDemoPodTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -437,7 +435,7 @@
 			};
 			name = Debug;
 		};
-		D79C88E22D0C92B400C4B9F2 /* Release */ = {
+		D79C89192D0CB74500C4B9F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -445,7 +443,7 @@
 				DEVELOPMENT_TEAM = 9J2JTGKM53;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.DemoPodTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.AmanKhuntDemoPodTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -456,34 +454,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D79C88C22D0C92B400C4B9F2 /* Build configuration list for PBXProject "DemoPod" */ = {
+		D79C88F92D0CB74500C4B9F2 /* Build configuration list for PBXProject "AmanKhuntDemoPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D79C88DE2D0C92B400C4B9F2 /* Debug */,
-				D79C88DF2D0C92B400C4B9F2 /* Release */,
+				D79C89152D0CB74500C4B9F2 /* Debug */,
+				D79C89162D0CB74500C4B9F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D79C88DB2D0C92B400C4B9F2 /* Build configuration list for PBXNativeTarget "DemoPod" */ = {
+		D79C89122D0CB74500C4B9F2 /* Build configuration list for PBXNativeTarget "AmanKhuntDemoPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D79C88DC2D0C92B400C4B9F2 /* Debug */,
-				D79C88DD2D0C92B400C4B9F2 /* Release */,
+				D79C89132D0CB74500C4B9F2 /* Debug */,
+				D79C89142D0CB74500C4B9F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D79C88E02D0C92B400C4B9F2 /* Build configuration list for PBXNativeTarget "DemoPodTests" */ = {
+		D79C89172D0CB74500C4B9F2 /* Build configuration list for PBXNativeTarget "AmanKhuntDemoPodTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D79C88E12D0C92B400C4B9F2 /* Debug */,
-				D79C88E22D0C92B400C4B9F2 /* Release */,
+				D79C89182D0CB74500C4B9F2 /* Debug */,
+				D79C89192D0CB74500C4B9F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D79C88BF2D0C92B400C4B9F2 /* Project object */;
+	rootObject = D79C88F62D0CB74500C4B9F2 /* Project object */;
 }

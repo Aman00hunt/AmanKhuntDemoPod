@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
   s.swift_version = '5.6'
   
   s.source_files     = 'AmanKhuntDemoPod/AmanKhuntDemoPod/**/*.{swift,h,m}' # Adjusted to match the structure
-  s.exclude_files    = 'AmanKhuntDemoPod/Exclude/**'
+  #s.exclude_files    = 'AmanKhuntDemoPod/Exclude/**'
  
 end

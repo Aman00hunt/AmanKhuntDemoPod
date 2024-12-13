@@ -1,14 +1,14 @@
 //
-//  DemoPodTests.swift
-//  DemoPodTests
+//  AmanKhuntDemoPodTests.swift
+//  AmanKhuntDemoPodTests
 //
-//  Created by Aman Khunt on 13/12/24.
+//  Created by Aman Khunt on 14/12/24.
 //
 
 import Testing
-@testable import DemoPod
+@testable import AmanKhuntDemoPod
 
-struct DemoPodTests {
+struct AmanKhuntDemoPodTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
